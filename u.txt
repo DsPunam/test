@@ -1,0 +1,10 @@
+how to read video
+why blank[:]=a tuple
+threshold in edge detection
+erosion,dilation
+affine transformation
+contour detection
+gaussian blurr
+bilitaral blur
+aplly image twice in bitwise operator
+histogram bins
